@@ -1,0 +1,42 @@
+.jumbotron {
+  background-image: url(img/home.jpg);
+  background-size: cover;
+  padding-top: 220px;
+  height: 700px;
+  background-repeat: no-repeat;
+  font-family: abys;
+  color: white;
+}
+
+#galery {
+  background: #171616;
+}
+
+.wa {
+  text-decoration: none;
+  color: green;
+  font-size: 30px;
+}
+
+.ig {
+  text-decoration: none;
+  color: black;
+  font-family: brush script mt;
+  font-size: 40px;
+}
+
+.footer {
+  background-color: #ffc107;
+  color: white;
+  padding: 2rem;
+  font-size: 17px;
+}
+
+section {
+  padding-top: 3rem;
+}
+
+.oke :hover {
+  background-color: #171616;
+  border-radius: 50px 50px 50px 50px;
+}
